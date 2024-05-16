@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">通讯录</string>
+    <string name="welcomeToUse">欢迎使用</string>
+    <string name="app_name_long">通  讯  录</string>
+    <string name="account">账户</string>
+    <string name="passcode">密码</string>
+    <string name="login">登录</string>
+    <string name="enroll">注册</string>
+    <string name="add">添加</string>
+    <string name="backToLogin">返回登录</string>
+    <string name="gander">性别:</string>
+    <string name="male">男</string>
+    <string name="female">女</string>
+    <string name="accountDescription">*账户应为邮箱</string>
+    <string name="passcodeDescription">*密码字符数不应低于8个，不高于16个</string>
+    <string name="yourAccount">你的账户</string>
+    <string name="EnrollShowReminder">*请务必牢记你的账号和密码</string>
+    <string name="name">姓名</string>
+    <string name="search">查找</string>
+    <string name="sync">刷新</string>
+    <string name="phone">电话号</string>
+    <string name="email">电子邮箱</string>
+    <string name="address">地址</string>
+    <string name="signature">个性签名</string>
+    <string name="hobby">爱好:</string>
+    <string name="singing">唱歌</string>
+    <string name="dancing">跳舞</string>
+    <string name="sport">运动</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="modify">修改</string>
+    <string name="delete">删除</string>
+    <string name="back">返回</string>
+    <string name="rePasscode">确认密码</string>
+    <string name="rePasscodeDescription">*请确保两次密码一致</string>
+</resources>
